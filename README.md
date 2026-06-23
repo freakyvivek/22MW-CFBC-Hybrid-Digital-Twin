@@ -243,6 +243,42 @@ making it suitable for:
 - Higher Studies and Publications
 
 ---
+# 🌐 Live Web Application
+
+The deployed Streamlit application can be accessed here:
+
+### 🚀 Streamlit Deployment
+
+https://22mw-cfbc-hybrid-digital-twin.streamlit.app/
+
+---
+
+# 🔗 Project Repository
+
+GitHub Repository:
+
+https://github.com/freakyvivek/22MW-CFBC-Hybrid-Digital-Twin
+
+---
+
+# 💻 Usage
+
+### Local Execution
+
+```bash
+streamlit run app.py
+```
+
+---
+
+### Online Deployment
+
+Open the following link:
+
+https://22mw-cfbc-hybrid-digital-twin.streamlit.app/
+
+---
+
 
 # 👨‍💻 Author
 
