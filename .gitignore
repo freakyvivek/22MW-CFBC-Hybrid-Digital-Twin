@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+plant_history.db
+
+# CSV files
+history.csv
+powerbi_data.csv
+simulink_outputs.csv
+
+# Temporary files
+test.py
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
